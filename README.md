@@ -1,1 +1,1 @@
-## A Simple game platform using PgZero ##
+## Simples Platform Game ##
